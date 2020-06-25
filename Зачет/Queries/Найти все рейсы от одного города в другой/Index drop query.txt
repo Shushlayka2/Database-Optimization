@@ -1,0 +1,1 @@
+DROP INDEX "Aviation".sorted_flights_by_departurepoint CASCADE;

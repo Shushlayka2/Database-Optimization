@@ -1,0 +1,21 @@
+SELECT customers.name, airlinename, count
+FROM "Aviation"."Customers" customers JOIN (SELECT customers.id customerid, airlines.name airlinename, count(airlines.id) count
+      FROM "Aviation"."Customers" customers JOIN "Aviation"."Tickets" tickets
+          ON tickets.customer_id = customers.id JOIN "Aviation"."Flights" flights
+          ON tickets.flight_id = flights.flight_num JOIN "Aviation"."Planes" planes
+          ON flights.plane_id = planes.aircraft_registration JOIN "Aviation"."Airlines" airlines
+          ON planes.airline_id = airlines.id
+      GROUP BY customerid, airlines.name) subq1
+  ON customerid = customers.id
+WHERE count = (SELECT max(count)
+               FROM (SELECT customers.id customerid, airlines.name airlinename, count(airlines.id) count
+                     FROM "Aviation"."Customers" customers JOIN "Aviation"."Tickets" tickets
+                         ON tickets.customer_id = customers.id JOIN "Aviation"."Flights" flights
+                         ON tickets.flight_id = flights.flight_num JOIN "Aviation"."Planes" planes
+                         ON flights.plane_id = planes.aircraft_registration JOIN "Aviation"."Airlines" airlines
+                         ON planes.airline_id = airlines.id
+                     GROUP BY customerid, airlinename
+                    ORDER BY customers.id) subq2
+               GROUP BY customerid
+              HAVING customers.id = customerid)
+ORDER BY customers.id

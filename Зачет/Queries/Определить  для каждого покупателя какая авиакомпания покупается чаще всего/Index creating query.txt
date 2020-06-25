@@ -1,0 +1,5 @@
+CREATE INDEX sorted_tickets_by_customeridid ON "Aviation"."Tickets"(customer_id ASC);
+CREATE INDEX sorted_tickets_by_flightid ON "Aviation"."Tickets"(flight_id ASC);
+CREATE INDEX sorted_flights_by_flightnum ON "Aviation"."Flights" (flight_num ASC);
+CREATE INDEX sorted_flights_by_planeid ON "Aviation"."Flights" (plane_id ASC);
+CREATE INDEX sorted_planes_by_aircraft_registration ON "Aviation"."Planes" (aircraft_registration ASC);

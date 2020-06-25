@@ -1,0 +1,87 @@
+﻿Aegean Airlines	3	4.3	33	47	8	http://www.aegeanair.com	Греция
+Air Canada	5	5	31	167	14	http://www.aircanada.com	Канада
+Air China	3.5	5	87	380	6	http://www.airchina.com.cn	Китай
+Air Europa	2.5	5		49	9	http://www.air-europa.com	Испания
+Air India Limited	3.5	3.6		113	9	http://www.airindia.com	Индия
+Air Moldova		3.6		7	13		Молдавия
+Serbian Airlines	3.5	4.3		20	17	http://www.airserbia.com	Сербия
+AirAsia	5	5	23	78	6	http://www.airasia.com	Малайзия
+Air Baltic	4	5		26	11		Латвия
+Avianca	3.5	5	56	102	4	http://www.avianca.com	Колумбия
+British Airways	4	5		268	12	http://www.ba.com	Великобритания
+Cathay Pacific	5	5	4	143	7	http://www.cathaypacific.com	Гонконг
+China Eastern	2.5	5	79	451	5	http://www.ce-air.com	Китай
+China Southern	3.5	5	32	526	7	http://www.cs-air.com	Китай
+Condor Airlines		5		42	17	http://www.condor.com	Германия
+Czech Airlines	3	4.3		18	10	http://www.czechairlines.com	Чехия
+Fly Dubai	4	4.3		58	4		Арабские Эмираты
+Garuda Indonesia	4	2.9	11	4	14	http://www.garuda-indonesia.com	Индонезия
+Georgian Airways		4.3		4	14		Грузия
+Gulf Air	3.5	3.6	80	28	8	http://www.gulfair.com	Бахрейн
+Hainan Airlines	3.5	5	12	174	5	http://www.hainanairlines.com	Китай
+Iberia Airlines	2.5	5	52	79	9	http://www.iberia.com	Испания
+Icelandair	3	5	81	32	21	http://www.icelandair.com	Исландия
+Japan Airlines	4.5	5	21	160	8	http://www.jal.co.jp	Япония
+Jet Airways	4.5	3.6	71	102	7	http://www.jetairways.com	Индия
+JetBlue Airways	5	5	53	230	9	http://www.jetblue.com	США
+Jetstar Airways	3	5	46	77	7	http://www.jetstar.com.au	Австралия
+Kenya Airways	3.5	3.6	85	34	5	http://www.kenya-airways.com	Кения
+KLM	3.5	5	24	118	11	http://www.klm.com	Нидерланды
+LOT Polish Airlines	4.5	5		46	7	http://www.lot.com	Польша
+Malindo Air	3.5	4.3		42	2		Малайзия
+Norwegian	4	3.6	30	54	4	http://www.norwegian.no	Норвегия
+Onur Air	3.5	5		23	18		Турция
+Philippine Airlines	3.5	4.3	83	63	4	http://www.philippineairlines.com/	Филиппины
+Pobeda Airlines				12	2		Россия
+Qantas Airways	5	5	9	123	10	http://www.qantas.com	Австралия
+Royal Air Maroc	2.5	4.3		52	10		Марокко
+Royal Jordanian	5	3.6	99	26	7	http://www.rj.com	Иордания
+Ryanair	2.5	3.6		384	6	http://www.ryanair.com	Ирландия
+SAS Scandinavian Airlines	2.5	5		160	10	http://www.flysas.com	Швеция
+SilkAir	5	5	39	31	4	http://www.silkair.net	Сингапур
+Southwest Airlines	4	3.6	66	724	11	http://www.southwest.com/	США
+Spirit Airlines	1.5	3.6		101	5	http://https://www.spirit.com/	США
+SriLankan Airlines	3.5	5	67	25	8	http://www.srilankan.lk	Шри-Ланка
+TAP Portugal	4	4.3		64	15	http://www.tap.pt	Португалия
+Tigerair				23	6	http://www.tigerair.com/sg/en/	Австралия
+Turkmenistan Airlines	2.5	2.9		24	9		Туркменистан
+Ukraine Airlines	2	4.3		39	12		Украина
+United Airlines	2.5	5	68	741	14	http://www.united.com	США
+Uzbekistan Airways	2.5	5		26	9		Узбекистан
+WOW Air	3.5	3.6		12	3	http://wowair.com/	Исландия
+Aircompany Yakutia	2.5	4.3		17	13		Россия
+Bangkok Airways			20	35	9	http://www.bangkokair.com/	Таиланд
+Austrian Airlines	4	5	19	83	14	http://www.austrian.com	Австрия
+Azerbaijan Airlines			70	27	9	http://https://www.azal.az/	Азербайджан
+Asiana Airlines	5	4.3	16	83	10	http://us.flyasiana.com	Южная Корея
+AZUR air				17	20	http://www.azurair.com/	Россия
+Alitalia	3.5	5	58	103	11	http://www.alitalia.com/gb_en	Италия
+Aeroflot	3	5	40	188	4	http://www.aeroflot.com	Россия
+Brussels Airlines	3	5	59	51	14	http://www.brusselsairlines.com/	Бельгия
+Virgin Atlantic	5	5	28	39	7	http://www.virgin-atlantic.com/	Великобритания
+Wizz Air	2.5	2.9		80	4	http://www.wizzair.com	Венгрия
+VIM Airlines				22	19	http://www.vim-avia.com/	Россия
+Vueling Airlines	3.5	5		108	6	http://www.vueling.com	Испания
+Vietnam Airlines	3.5	4.3	44	85	5	http://https//www.vietnamairlines.com/	Вьетнам
+Donavia						http://www.aeroflot-don.ru/	Россия
+easyJet	2.5		38	240	7	http://www.easyjet.com	Великобритания
+Qatar Airways	5	3.6	2	171	6	http://www.qatarairways.com/	Катар
+Korean Air	5	5	36	166	9	http://www.koreanair.com	Южная Корея
+Lufthansa	4	5	10	268	11	http://www.lufthansa.com	Германия
+OrenAir				1	11	http://www.orenair.ru/	Россия
+Pegasus Airlines				79	5	http://https://www.flypgs.com/	Турция
+Rossiya Airlines				60	13	http://www.rossiya-airlines.com/	Россия
+Swiss	4.5	5		81	11		http://www.swiss.com	Швейцария
+NordWind Airlines				15	14	http://www.nordwindairlines.ru/	Россия
+S7 Airlines	3	4.3		65	10	http://www.s7.ru	Россия
+Singapore Airlines	5	5	3	108	7	http://www.singaporeair.com/	Сингапур
+Thai Airways			13	76	10	http://www.thaiairways.com/	Таиланд
+Turkish Airlines	4	4.3	7	295	6	http://www.turkishairlines.com/	Турция
+Ural Airlines				40	13	http://www.uralairlines.ru/	Россия
+Finnair	3.5	5	27	63	9	http://www.finnair.com	Финляндия
+Air Astana	3	3.6	43	31	7	http://https//airastana.com/kaz/ru-RU	Казахстан
+Air Berlin	2.5	5	74	135	8	http://www.airberlin.com	Германия
+Air Malta				8	11	http://https//www.airmalta.com/home-ru-ru	Мальта
+Emirates Airlines	5	5	1	260	5	http://www.emirates.com	Арабские Эмираты
+Etihad Airways	5	5	6	127	6	http://www.etihad.com	Арабские Эмираты
+UTair Aviation				65	15	http://https://www.utair.ru/	Россия

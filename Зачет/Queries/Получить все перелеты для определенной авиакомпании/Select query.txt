@@ -1,0 +1,6 @@
+SELECT subq.name, flights.flight_num
+FROM (SELECT *
+FROM "Aviation"."Airlines" airlines JOIN "Aviation"."Planes" planes
+ON airlines.id = planes.airline_id) subq JOIN "Aviation"."Flights" flights
+ON flights.plane_id = subq.aircraft_registration
+WHERE subq.name = 'Korean Air'

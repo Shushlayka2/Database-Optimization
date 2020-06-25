@@ -1,0 +1,4 @@
+SELECT type, count(flight_num)
+FROM "Aviation"."Flights" flights JOIN "Aviation"."Planes" planes
+ON flights.plane_id = planes.aircraft_registration
+GROUP BY type

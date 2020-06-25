@@ -1,0 +1,1 @@
+CREATE INDEX sorted_planes_by_airlineid ON "Aviation"."Planes"(airline_id ASC)

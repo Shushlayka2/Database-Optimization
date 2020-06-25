@@ -1,0 +1,3 @@
+SELECT planes.aircraft_registration, airlines.name
+FROM "Aviation"."Airlines" airlines JOIN "Aviation"."Planes" planes
+ON airlines.id = planes.airline_id

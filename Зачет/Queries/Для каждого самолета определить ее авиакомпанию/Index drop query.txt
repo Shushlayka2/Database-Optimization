@@ -1,0 +1,1 @@
+DROP INDEX "Aviation".sorted_planes_by_airlineid CASCADE;

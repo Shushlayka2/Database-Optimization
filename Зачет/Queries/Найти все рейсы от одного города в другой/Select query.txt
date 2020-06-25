@@ -1,0 +1,3 @@
+SELECT *
+FROM "Aviation"."Flights"
+WHERE departure_point = 'Тайга' AND destination = 'София'

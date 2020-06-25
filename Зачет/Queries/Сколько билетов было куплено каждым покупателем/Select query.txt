@@ -1,0 +1,5 @@
+SELECT customers.name, count(tickets.id)
+FROM "Aviation"."Customers" customers JOIN "Aviation"."Tickets" tickets
+ON customers.id = tickets.customer_id
+GROUP BY customers.id
+ORDER BY customers.id

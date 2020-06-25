@@ -1,0 +1,5 @@
+DROP INDEX "Aviation".sorted_tickets_by_customeridid CASCADE;
+DROP INDEX "Aviation".sorted_tickets_by_flightid CASCADE;
+DROP INDEX "Aviation".sorted_flights_by_flightnum CASCADE;
+DROP INDEX "Aviation".sorted_flights_by_planeid CASCADE;
+DROP INDEX "Aviation".sorted_planes_by_aircraft_registration CASCADE;
